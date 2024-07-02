@@ -1,1 +1,1 @@
-# Working_safety_monitoring_using_yolov10
+# Working Safety Monitoring using YOLOv10
